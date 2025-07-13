@@ -3,7 +3,6 @@
 ## Table of Content
   * Overview
   * Data Collection
-  * Resnet(Transform Learning)
   * Installation and Run 
 
 ## Overview
