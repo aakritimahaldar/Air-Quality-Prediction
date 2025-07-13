@@ -38,8 +38,7 @@ Running Project
      Step 2: Python app.py
 
 ## Technologies Used
-
-![](https://forthebadge.com/images/badges/made-with-python.svg)  ![pandas](https://user-images.githubusercontent.com/71332138/134156736-9dcc4675-e588-42a6-9481-816ac08654ab.png).![numpy](https://user-images.githubusercontent.com/71332138/134540645-95fa9566-18ca-4719-8cc6-82153e96683c.png) ![flask](https://user-images.githubusercontent.com/71332138/136525463-d94befe6-f982-4f98-bd1c-833bdbd3c004.png)
+python,pandas,numpy and flask
    
          
                             
